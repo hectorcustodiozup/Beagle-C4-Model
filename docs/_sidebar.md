@@ -1,6 +1,0 @@
-* [Beagle Context](HOME)
-  * [1 Beagle Backend](1%20Beagle%20Backend/HOME)
-  * [2 Beagle Frontend](2%20Beagle%20Frontend/HOME)
-    * [Beagle Navigation](2%20Beagle%20Frontend/Beagle%20Navigation/HOME)
-    * [Beagle Remote View](2%20Beagle%20Frontend/Beagle%20Remote%20View/HOME)
-    * [Beagle Service](2%20Beagle%20Frontend/Beagle%20Service/HOME)
