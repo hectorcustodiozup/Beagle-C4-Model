@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="461px" preserveAspectRatio="none" style="width:449px;height:461px;" version="1.1" viewBox="0 0 449 461" width="449px" zoomAndPan="magnify"><defs/><g><!--MD5=[1865ce58b93b46dbf0f89b42133fbc97]
+entity sd--><rect fill="#08427B" height="140.9531" style="stroke: #073B6F; stroke-width: 1.5;" width="214" x="7" y="7"/><image height="48" width="48" x="90" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABuUlEQVR42u2Yv0oEMRDGp/QRfIR7BVs7Gx9AH0CwtrtKLNXSRsRSG8HCxkbQVrSykoOrzlILC9v4gwMRNptMMsnu3nHDFMcSLh/f/PsmsrY5HpTLUgHaOri8uHt+eJm8vs/wm8e38fn9aPekB0D7p7df3z+uxYC4sXfWEaD17SPIcAqDreqAQBMgpmnHV091ASm5+W8EtxYgQuCyDF7LA+JPXa5RieUBwbwzWHlAVLIFEB2rMKCk4rK0AC0gZzN9/S8soOnHpwWQvhtpATE4h5XUlrKnIKp06uxCS5poCzs6stvjzuF1XfmRVG4ZkihHMSp5SuXGJGG5LEAVPSIpb4qJfIQzQeF6OMORGXSHbCjLuAb1CYhti7whQHQ5PLrlcHh+kiAyN/RxFE0/9OYvH+dJw33gw/nB4bYa5Ltmokl4MTXqMi+sMFtSfFBEDWoD67bUkPSa+d/Gk3i7i6tvxE4LyLhgGOeu9ELPXzLFAVHJrkNrZreUFfN28S9l1x27upVSLwp5hlIYFqBm8a8ADRxQJIfszy72ZxrpeKxGR6xnltEbupkbXtkpbQsh6ozhV8kDCni1dcT8F2bsoAKLcdt7AAAAAElFTkSuQmCC" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="150" x="39" y="81.6094">Software Developer</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="116" y="99.6582"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="193" x="17.5" y="117.2676">A developer who wants to fast-</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="194" x="17" y="134.877">delivery a frontend application.</text><!--MD5=[efb841671d31ca6fdfa2e98243b89d9c]
+entity bb--><rect fill="#1168BD" height="110.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="203" x="128.5" y="225"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="203.5" y="251.6094">Beagle</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="232" y="269.6582"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="169" x="143.5" y="287.2676">Allows developers to easily</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="138.5" y="304.877">create Beagle Server Driven</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="52" x="204" y="322.4863">Screens</text><!--MD5=[bd536215bacd77b1228d5eaaf329efa6]
+entity fa--><rect fill="#999999" height="92.9531" style="stroke: #8A8A8A; stroke-width: 1.5;" width="180" x="256" y="31"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="160" x="266" y="57.6094">Frontend Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="348" y="75.6582"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="149" x="269.5" y="93.2676">A frontend platform that</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="127" x="282.5" y="110.877">renders the screens</text><!--MD5=[7f6e4a8586d74ab4b1104fafd6ec1853]
+link sd to bb--><path d="M154.25,148.24 C167.29,170.85 181.67,195.76 194.36,217.75 " fill="none" id="sd-to-bb" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="198.42,224.78,197.0183,216.3518,191.822,219.3516,198.42,224.78" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="115" x="180" y="191.457">Create screens with</text><!--MD5=[6182bcd19bab62100db2048643f15959]
+link fa to bb--><path d="M333.86,124.23 C326.9,146.46 316.94,173.05 304,195 C299.28,203.01 293.75,210.96 287.88,218.6 " fill="none" id="fa-to-bb" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="282.88,224.94,290.1895,220.5161,285.4783,216.8007,282.88,224.94" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="125" x="312" y="191.457">Receives screen from</text><rect fill="#FFFFFF" height="102.0469" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.0;" width="118" x="304" y="348.5625"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="310" y="370.0957">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="367" y="370.0957"/><rect fill="#08427B" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="310" y="373.1719"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="314" y="387.7051">person</text><rect fill="#1168BD" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="310" y="390.7813"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="314" y="405.3145">system</text><rect fill="#686868" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="310" y="408.3906"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="314" y="422.9238">external person</text><rect fill="#999999" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="310" y="426"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="314" y="440.5332">external system</text><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="310" x2="416" y1="355.5625" y2="355.5625"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="310" x2="416" y1="373.1719" y2="373.1719"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="310" x2="416" y1="390.7813" y2="390.7813"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="310" x2="416" y1="408.3906" y2="408.3906"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="310" x2="416" y1="426" y2="426"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="310" x2="416" y1="443.6094" y2="443.6094"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="310" x2="310" y1="355.5625" y2="443.6094"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="416" x2="416" y1="355.5625" y2="443.6094"/><!--MD5=[b9b6a9c3bcae9a073944912858d6e5f0]
+@startuml context
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(sd, "Software Developer", "A developer who wants to fast-delivery a frontend application.")
+System(bb, "Beagle", "Allows developers to easily create Beagle Server Driven Screens")
+' System(bf, "Beagle Frontend", "Translates Beagle screens to native platform code")
+System_Ext(fa, "Frontend Application", "A frontend platform that renders the screens")
+
+Rel(sd, bb, "Create screens with")
+Rel(fa, bb, "Receives screen from")
+@enduml
+
+@startuml context
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system|
+|<#686868> external person |
+|<#999999> external system |
+endlegend
+
+rectangle "<$person>\n==Software Developer\n\n A developer who wants to fast-delivery a frontend application." <<person>> as sd
+rectangle "==Beagle\n\n Allows developers to easily create Beagle Server Driven Screens" <<system>> as bb
+rectangle "==Frontend Application\n\n A frontend platform that renders the screens" <<external_system>> as fa
+
+sd - ->> bb : **Create screens with**
+fa - ->> bb : **Receives screen from**
+@enduml
+
+PlantUML version 1.2020.17(Sat Sep 19 09:30:11 BRT 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

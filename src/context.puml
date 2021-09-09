@@ -1,0 +1,13 @@
+@startuml context
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(sd, "Software Developer", "A developer who wants to fast-delivery a frontend application.")
+System(bb, "Beagle", "Allows developers to easily create Beagle Server Driven Screens")
+' System(bf, "Beagle Frontend", "Translates Beagle screens to native platform code")
+System_Ext(fa, "Frontend Application", "A frontend platform that renders the screens")
+
+Rel(sd, bb, "Create screens with")
+Rel(fa, bb, "Receives screen from")
+@enduml

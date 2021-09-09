@@ -1,0 +1,39 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+System_Boundary(bf, "Beagle Frontend") {
+    Container(ba, "Beagle Actions", "typescript, kotlin, swift", "Handles multiples application behaviors")
+    Container(bo, "Beagle Operations", "typescript, kotlin, swift", "Enables the use of logical operations")
+    Container(bs, "Beagle Service / Config", "typescript, kotlin, swift", "Allows customization of functionalities")
+    Container(bl, "Beagle Loader", "typescript, kotlin, swift", "Starting point to render beagle screens")
+    Container(bc, "Beagle Components", "typescript, kotlin, swift", "Ready-to-use interface components such as buttons or inputs")
+
+    
+    Rel(bl, bs, "Gets Configurations from")
+    Rel(bc, bo, "Sends Operation Data")
+    Rel(bo, bc, "Receives Operation Results")
+    Rel(bc, ba, "Triggers actions")
+    Rel(bl, bc, "Loads")
+}
+
+System_Boundary(bb, "Beagle Backend") {
+    Container(fea, "FEATURE A", "technology", "Description")
+    Container(feb, "FEATURE B", "technology", "Description")
+    Container(fec, "FEATURE C", "technology", "Description")
+
+    ' Rel(api, db, "Reads & writes to", "JDBC")
+    ' Rel(wa, spa, "Delivers")
+    ' Rel(spa, api, "Uses", "JSON/HTTPS")
+    ' Rel(ma, api, "Uses", "JSON/HTTPS")
+}
+
+System_Ext(fa, "Frontend Application", "A frontend platform that renders the screens")
+
+Rel(bb, fa, "Sends JSON to", "HTTPS")
+Rel(fa, bl, "Renders With", "JSON")
+' Rel(pbc, spa, "Uses")
+' Rel(pbc, ma, "Uses")
+' Rel(es, pbc, "Sends e-mails to")
+@enduml
