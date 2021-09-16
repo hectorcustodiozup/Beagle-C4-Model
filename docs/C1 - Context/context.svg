@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="479px" preserveAspectRatio="none" style="width:446px;height:479px;" version="1.1" viewBox="0 0 446 479" width="446px" zoomAndPan="magnify"><defs/><g><!--MD5=[c7a9e7031b408abcf77d42ed5237febd]
+entity software_developer--><rect fill="#08427B" height="158.5625" style="stroke: #073B6F; stroke-width: 1.5;" width="213" x="7" y="7"/><image height="48" width="48" x="89.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABuUlEQVR42u2Yv0oEMRDGp/QRfIR7BVs7Gx9AH0CwtrtKLNXSRsRSG8HCxkbQVrSykoOrzlILC9v4gwMRNptMMsnu3nHDFMcSLh/f/PsmsrY5HpTLUgHaOri8uHt+eJm8vs/wm8e38fn9aPekB0D7p7df3z+uxYC4sXfWEaD17SPIcAqDreqAQBMgpmnHV091ASm5+W8EtxYgQuCyDF7LA+JPXa5RieUBwbwzWHlAVLIFEB2rMKCk4rK0AC0gZzN9/S8soOnHpwWQvhtpATE4h5XUlrKnIKp06uxCS5poCzs6stvjzuF1XfmRVG4ZkihHMSp5SuXGJGG5LEAVPSIpb4qJfIQzQeF6OMORGXSHbCjLuAb1CYhti7whQHQ5PLrlcHh+kiAyN/RxFE0/9OYvH+dJw33gw/nB4bYa5Ltmokl4MTXqMi+sMFtSfFBEDWoD67bUkPSa+d/Gk3i7i6tvxE4LyLhgGOeu9ELPXzLFAVHJrkNrZreUFfN28S9l1x27upVSLwp5hlIYFqBm8a8ADRxQJIfszy72ZxrpeKxGR6xnltEbupkbXtkpbQsh6ozhV8kDCni1dcT8F2bsoAKLcdt7AAAAAElFTkSuQmCC" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="150" x="38.5" y="81.6094">Software Developer</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="115.5" y="99.6582"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="193" x="17" y="117.2676">A developer who wants to fast-</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="155" x="34" y="134.877">delivery a cross-platform</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="129" x="49" y="152.4863">frontend application.</text><!--MD5=[5d187aef1d3f154dfd386662d92cfa22]
+entity beagle--><rect fill="#1168BD" height="110.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="203" x="128" y="243"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="203" y="269.6094">Beagle</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="231.5" y="287.6582"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="169" x="143" y="305.2676">Allows developers to easily</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="138" y="322.877">create Beagle Server Driven</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="52" x="203.5" y="340.4863">Screens</text><!--MD5=[f3db3974b1fd13c59897b7e6c4a71d54]
+entity frontend_app--><rect fill="#999999" height="92.9531" style="stroke: #8A8A8A; stroke-width: 1.5;" width="180" x="255.5" y="40"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="160" x="265.5" y="66.6094">Frontend Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="347.5" y="84.6582"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="149" x="269" y="102.2676">A frontend platform that</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="127" x="282" y="119.877">renders the screens</text><!--MD5=[13f735654b29f0569b90a399a81f81ee]
+link software_developer to beagle--><path d="M157.02,166.29 C169.67,189.19 183.3,213.87 195.29,235.57 " fill="none" id="software_developer-to-beagle" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="199.29,242.81,198.0507,234.3563,192.7978,237.2557,199.29,242.81" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="183.5" y="209.457">Develops with</text><!--MD5=[b398c31a4244f3b05a43bda2571750de]
+link frontend_app to beagle--><path d="M320.33,133.07 C303.79,163.01 281.94,202.57 263.81,235.38 " fill="none" id="frontend_app-to-beagle" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="259.77,242.7,266.267,237.1513,261.0165,234.2474,259.77,242.7" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="75" x="284.5" y="209.457">Renders with</text><rect fill="#FFFFFF" height="102.0469" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.0;" width="118" x="301.5" y="366.5625"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="307.5" y="388.0957">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="364.5" y="388.0957"/><rect fill="#08427B" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="307.5" y="391.1719"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="311.5" y="405.7051">person</text><rect fill="#1168BD" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="307.5" y="408.7813"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="311.5" y="423.3145">system</text><rect fill="#686868" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="307.5" y="426.3906"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="311.5" y="440.9238">external person</text><rect fill="#999999" height="17.6094" style="stroke: none; stroke-width: 1.0;" width="106" x="307.5" y="444"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="311.5" y="458.5332">external system</text><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="307.5" x2="413.5" y1="373.5625" y2="373.5625"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="307.5" x2="413.5" y1="391.1719" y2="391.1719"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="307.5" x2="413.5" y1="408.7813" y2="408.7813"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="307.5" x2="413.5" y1="426.3906" y2="426.3906"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="307.5" x2="413.5" y1="444" y2="444"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="307.5" x2="413.5" y1="461.6094" y2="461.6094"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="307.5" x2="307.5" y1="373.5625" y2="461.6094"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="413.5" x2="413.5" y1="373.5625" y2="461.6094"/><!--MD5=[dbb3845fabd64864a802749d14dfb57c]
+@startuml context
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(software_developer, "Software Developer", "A developer who wants to fast-delivery a cross-platform frontend application.")
+System(beagle, "Beagle", "Allows developers to easily create Beagle Server Driven Screens")
+' System(bf, "Beagle Frontend", "Translates Beagle screens to native platform code")
+System_Ext(frontend_app, "Frontend Application", "A frontend platform that renders the screens")
+
+Rel(software_developer, beagle, "Develops with")
+Rel(frontend_app, beagle, "Renders with")
+@enduml
+
+@startuml context
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system|
+|<#686868> external person |
+|<#999999> external system |
+endlegend
+
+rectangle "<$person>\n==Software Developer\n\n A developer who wants to fast-delivery a cross-platform frontend application." <<person>> as software_developer
+rectangle "==Beagle\n\n Allows developers to easily create Beagle Server Driven Screens" <<system>> as beagle
+rectangle "==Frontend Application\n\n A frontend platform that renders the screens" <<external_system>> as frontend_app
+
+software_developer - ->> beagle : **Develops with**
+frontend_app - ->> beagle : **Renders with**
+@enduml
+
+PlantUML version 1.2020.17(Sat Sep 19 09:30:11 BRT 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
