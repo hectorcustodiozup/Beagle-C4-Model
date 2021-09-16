@@ -26,6 +26,7 @@ System_Boundary(beagle_frontend, "Beagle Frontend") {
 
 System_Ext(frontend_app, "Frontend Application", "A frontend platform that renders the screens")
 
-Rel(beagle_frontend, frontend_app, "Presents to", "HTTPS")
-Rel(beagle_loader, beagle_backend, "Fetches Beagle Screens from", "JSON")
+Rel(frontend_app, beagle_frontend, "Renders With", "ANDROID, iOS, WEB")
+Rel(beagle_loader, beagle_backend, "Fetches Beagle Screens from", "HTTPS")
+Rel(beagle_backend, beagle_loader, "Sends Screens To", "JSON")
 @enduml
