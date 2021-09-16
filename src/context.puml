@@ -8,6 +8,6 @@ System(beagle, "Beagle", "Allows developers to easily create Beagle Server Drive
 ' System(bf, "Beagle Frontend", "Translates Beagle screens to native platform code")
 System_Ext(frontend_app, "Frontend Application", "A frontend platform that renders the screens")
 
-Rel(software_developer, beagle, "Develops screens using the Beagle backend library and its helpers")
-Rel(frontend_app, beagle, "Receives screens from the Beagle Backend and renders them usgin the Beagle Frontend library and its helpers")
+Rel(software_developer, beagle, "Develops with")
+Rel(frontend_app, beagle, "Renders with")
 @enduml
