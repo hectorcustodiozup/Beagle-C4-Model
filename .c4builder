@@ -3,7 +3,7 @@
 	"projectName": "Beagle-C4",
 	"plantumlServer": "http://127.0.0.1:8080",
 	"plantumlRender": "PlantUMLServer",
-	"homepageName": "Beagle Context",
+	"homepageName": "Context",
 	"rootFolder": "src",
 	"distFolder": "docs",
 	"generateMD": false,
