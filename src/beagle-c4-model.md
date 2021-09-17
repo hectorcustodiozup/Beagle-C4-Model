@@ -1,5 +1,3 @@
-# C4Model
-
 
 
 **Overview**
